@@ -14,4 +14,8 @@ You will also need to add /usr/local/git/bin to your path. On mac the default gi
 
 Follow these instructions: https://help.github.com/articles/set-up-git#set-up-git
 
+h3. Play Framework
+
+Install Play Framework 2 http://www.playframework.com
+
 
