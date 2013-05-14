@@ -19,3 +19,13 @@ h3. Play Framework
 Install Play Framework 2 http://www.playframework.com
 
 
+h3. Apache HTTP server benchmarking tool
+
+Try ab on the command line
+
+If you an error you might have to apply the solution in http://stackoverflow.com/questions/13643452/libssl-and-libcrypto-causing-dyld-library-not-loaded-usr-lib-libpq-5-dylib
+
+if you get a connection error from ab while testing you might need to get the new version of ab :
+
+1. install pcre lib as in http://stackoverflow.com/questions/10663180/http-install-error-in-libpcre
+2. install new version of ab as in http://superuser.com/questions/323840/apache-bench-test-erroron-os-x-apr-socket-recv-connection-reset-by-peer-54
