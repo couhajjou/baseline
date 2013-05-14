@@ -1,0 +1,10 @@
+baseline
+========
+
+A technical platform for web application development 
+
+Setup
+
+baseline source code is stored in git so you need to setup that first
+
+git setup: https://help.github.com/articles/set-up-git
