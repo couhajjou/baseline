@@ -1,10 +1,17 @@
-baseline
-========
+h1. baseline
 
 A technical platform for web application development 
 
-Setup
+h2. Setup
 
-baseline source code is stored in git so you need to setup that first
+h3. github
 
-git setup: https://help.github.com/articles/set-up-git
+baseline source code is stored in github, so you need to setup that first
+
+Download and install git from http://git-scm.com/downloads
+
+You will also need to add /usr/local/git/bin to your path. On mac the default git is in /usr/bin/ so make sure you that your path contains /usr/local/git/bin before /user/bin.
+
+Follow these instructions: https://help.github.com/articles/set-up-git#set-up-git
+
+
